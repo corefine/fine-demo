@@ -1,2 +1,2 @@
 # fine-demo
-良好的Demo实现
+良好的demo实现
