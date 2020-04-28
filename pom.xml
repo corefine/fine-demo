@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.corefine.demo</groupId>
-    <name>fine demo</name>
+    <name>demo</name>
     <artifactId>demo</artifactId>
     <description>一些写得比较好的demo</description>
     <version>1.0.0-SNAPSHOT</version>
@@ -19,6 +19,7 @@
             <email>fe@corefine.org</email>
         </developer>
     </developers>
+    <url>https://github.com/corefine/fine-demo</url>
     <scm>
         <connection>
             scm:git:git@github.com:corefine/fine-demo.git
