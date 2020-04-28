@@ -4,7 +4,7 @@
     <name>demo</name>
     <artifactId>demo</artifactId>
     <description>一些写得比较好的demo</description>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <licenses>
         <license>
@@ -27,7 +27,7 @@
             scm:git:git@github.com:corefine/fine-demo.git
         </developerConnection>
         <url>https://github.com/corefine/fine-demo</url>
-        <tag>demo-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <properties>
         <java.version>11</java.version>
