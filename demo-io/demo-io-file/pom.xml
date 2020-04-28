@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.corefine.demo</groupId>
         <artifactId>demo-io</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1-SNAPSHOT</version>
     </parent>
     <modules>
         <module>demo-io-file-reader</module>
