@@ -101,5 +101,6 @@
     </distributionManagement>
     <modules>
         <module>demo-io</module>
+        <module>demo-net</module>
     </modules>
 </project>
