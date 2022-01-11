@@ -15,7 +15,7 @@ public class TcpServer {
         EventLoopGroup workerGroup  = new NioEventLoopGroup();// 用来处理已经被接收的连接
         try{
             ServerBootstrap server =new ServerBootstrap();//是一个启动NIO服务的辅助启动类
-            server.group(bossGroup,workerGroup )
+            server.group(bossGroup, workerGroup)
                     .channel(NioServerSocketChannel.class)  // 这里告诉Channel如何接收新的连接
                     .childHandler(new ChannelInitializer<SocketChannel>() {
                         protected void initChannel(SocketChannel ch) throws Exception {
