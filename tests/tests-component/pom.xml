@@ -13,5 +13,6 @@
         <module>test-mongo</module>
         <module>test-zookeeper</module>
         <module>test-netty</module>
+        <module>test-caffeine</module>
     </modules>
 </project>
