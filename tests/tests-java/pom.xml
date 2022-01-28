@@ -9,5 +9,6 @@
     </parent>
     <modules>
         <module>test-net</module>
+        <module>test-pipeline</module>
     </modules>
 </project>
