@@ -103,6 +103,7 @@
     <modules>
         <module>demo-io</module>
         <module>demo-net</module>
+        <module>demo-utils</module>
         <module>tests</module>
     </modules>
 </project>
